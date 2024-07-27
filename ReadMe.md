@@ -1,4 +1,4 @@
-# VSCode Stream Deck Plugin
+# Stream Deck Plugin
 
 ## Summary
 
